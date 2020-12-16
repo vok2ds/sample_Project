@@ -135,7 +135,7 @@ nav>.mainmenu>li:hover{
     background-color: #009688;
 }
 
-#slider {
+#slide {
     width: 100%;
     height: 350px;
 }
@@ -148,7 +148,7 @@ nav>.mainmenu>li:hover{
 .imgs>img {
     width: 100%;
     position: absolute;
-
+   
 }
 .welcome {
     position: absolute;
