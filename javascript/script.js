@@ -11,8 +11,7 @@ $("#modal").removeClass("active");
     $(".mainmenu>li").mouseover(function(){
         $(this).children(".submenu").stop().slideDown()
     });
-    ;
-});
+
     
 $(".mainmenu>li").mouseleave(function(){
 	$(this).children(".submenu").stop().slideUp();
@@ -31,5 +30,5 @@ partnerimg.addEventListener("click",function(){
 	modal.setAttribute("class","active")
 });
 modalbtn.addEventListener("click",function(){
-	modal.
+
 });
